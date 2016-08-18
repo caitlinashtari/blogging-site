@@ -1,0 +1,28 @@
+.exciting {
+  color: #800080;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  border: 3px solid #39ac39;
+  padding: 20px;
+  margin-left: 60px;
+  background-color: #ecf9ec;
+}
+
+.sidebar {
+  width: 200px;
+  float: right;
+  border: 3px dashed #800080;
+  padding: 10px;
+  margin-right: 30px;
+  background-color: #e0ccff;
+}
+
+img {
+  padding: 25px;
+  border: 3px dashed #800080;
+}
